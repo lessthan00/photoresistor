@@ -1,5 +1,8 @@
 # photoresistor
 
+<img src="./photoresistor.png" style="display:block; margin:auto; width:50%;" />   
+<img src="./photoresistor-Edge_Cuts.svg" style="display:block; margin:auto; width:50%;" />  
+
 模块参考
 https://item.taobao.com/item.htm?id=39878225784&spm=a21wu.12321156.0.0.6f06584cNpolGY
 
